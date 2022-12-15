@@ -1,6 +1,3 @@
-# MA214 Assessed Coursework Q1
-# Candidate Number: 37443
-
 class Node:
     def __init__(self,val,le,ri,pa):
         self.value = val
